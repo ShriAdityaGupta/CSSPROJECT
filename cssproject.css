@@ -1,0 +1,26 @@
+.shape{
+    color: white;
+    border-radius: 25px;
+    background-color: white;
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-right: 40px;
+    vertical-align: top;
+    margin-bottom: 20px;
+}
+.heading{
+    color: blue;
+    text-align: center;
+    
+}
+.heading1{
+    color: gray;
+    text-decoration: line-through;
+}
+.heading2{
+    color: black;
+}
